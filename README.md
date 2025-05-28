@@ -1,1 +1,1 @@
-# odin-recipe
+This is my first project i made while following The Odin Project and making this was very fun although i faced some difficulties but i could them solve by google.
